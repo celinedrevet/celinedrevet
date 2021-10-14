@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @celinedrevet
+- 👀 I’m interested in data science and data engineering
+- 📫 How to reach me : https://www.linkedin.com/in/c%C3%A9line-drevet-13985645/
